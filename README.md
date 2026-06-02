@@ -60,7 +60,7 @@ An advanced AI chatbot system with:
 
 <p align="left">
 <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAiZAAZAA0" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/logo-dark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langgraph.png" width="45" height="45"/>
 <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAiZAAZAA0" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/light/langsmith.png" width="45" height="45"/>
 <img src="https://miro.medium.com/1*2crwn9fsu58hVQua-dEa3w.png" width="45" height="45"/>
@@ -106,18 +106,8 @@ An advanced AI chatbot system with:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DanishIslam10&show_icons=true&theme=tokyonight" height="170"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanishIslam10&theme=tokyonight" height="170"/>
 
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanishIslam10&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
